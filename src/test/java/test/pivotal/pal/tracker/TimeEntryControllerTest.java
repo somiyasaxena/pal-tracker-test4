@@ -1,3 +1,4 @@
+
 package test.pivotal.pal.tracker;
 
 import io.pivotal.pal.tracker.TimeEntry;
@@ -18,6 +19,7 @@ import static org.mockito.Matchers.eq;
 import static org.mockito.Mockito.*;
 
 public class TimeEntryControllerTest {
+
     private TimeEntryRepository timeEntryRepository;
     private TimeEntryController controller;
 
